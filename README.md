@@ -17,17 +17,17 @@ installRpackages.R
 integrateSCdata.R
 - script used for analysis of fresh tissue samples (Figure 4)
 
-fileList.RSEC_fresh.txt
-fileList.sampleTag_fresh.txt
-metadata_fresh_patientLevel.txt
-metadata_fresh.txt
+fileList.RSEC_fresh.txt  
+fileList.sampleTag_fresh.txt  
+metadata_fresh_patientLevel.txt  
+metadata_fresh.txt  
 - input files for integrateSCdata.R
 
 integrateSCdata_frozenVsFresh.R
 - script used for analysis/comparison of fresh and frozen tissue samples
 
-fileList.RSEC.txt
-fileList.SampleTag.txt
-metadata_patientLevel.txt
-metadata.txt
+fileList.RSEC.txt  
+fileList.SampleTag.txt  
+metadata_patientLevel.txt  
+metadata.txt  
 - input files for integrateSCdata_frozenVsFresh.R
