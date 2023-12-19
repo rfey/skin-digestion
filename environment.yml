@@ -1,0 +1,18 @@
+name: skinDigest
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - r-patchwork
+  - r-seurat
+  - r-tidyverse
+  - snakemake
+  - skewer
+  - hisat2
+  - subread
+  - bioconductor-edger
+  - matplotlib-venn
+  - samtools
+  - r-clustree
+  - bioconductor-dittoseq
+  - r-devtools

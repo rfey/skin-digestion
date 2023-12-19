@@ -1,0 +1,4 @@
+#dataset	cells	tissue_state
+DE1-CD45pos	CD45pos	fresh
+DE2-CD45pos	CD45pos	fresh
+DE2-CD45neg	CD45neg	fresh
