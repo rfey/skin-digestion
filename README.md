@@ -1,5 +1,7 @@
 # skin-digestion
-Code necessary to reproduce analysis of human skin single cell RNA-seq datasets.
+Code necessary to reproduce analysis of human skin single cell RNA-seq datasets:
+Clister, Terri, Rosalyn M. Fey, Zachary R. Garrison, Cristian D. Valenzuela, Anna Bar, Justin J. Leitenberger, and Rajan P. Kulkarni. 2024. "Optimization of Tissue Digestion Methods for Characterization of Photoaged Skin by Single Cell RNA Sequencing Reveals Preferential Enrichment of T Cell Subsets" Cells 13, no. 3: 266. https://doi.org/10.3390/cells13030266
+
 
 Single cell RNA-seq and protein profiling datasets produced from non-affected human skin tissue collected from patients with skin cancer. Tissue was processed using one of two digestion methods.
 
